@@ -1,2 +1,3 @@
 # URL-Shortener
-Simple url shortener along with tracking the views of the links
+Designing a URL-Shortener service that takes a valid URL and returns shortened URL redirecting user to previously provided URL.
+Also keep track of total visits and clicks on URL
