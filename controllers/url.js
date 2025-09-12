@@ -12,4 +12,5 @@ async function handleGenerateNewShortUrl(req,res){
     });
     return res.json({id:shortId});
 }
+
 module.exports={handleGenerateNewShortUrl}; 
